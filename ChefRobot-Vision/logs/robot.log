@@ -1,0 +1,28 @@
+2026-04-20 23:16:11,472 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:16:11,472 | INFO | src.controllers.robot_controller | Speed updated to 20.0
+2026-04-20 23:16:11,473 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:16:11,473 | ERROR | src.controllers.robot_controller | Invalid speed value: 120.0
+2026-04-20 23:16:11,474 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:16:11,474 | ERROR | src.controllers.robot_controller | Invalid speed value: -150.0
+2026-04-20 23:16:11,475 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:16:11,475 | INFO | src.controllers.robot_controller | Speed updated to 20.0
+2026-04-20 23:16:11,475 | INFO | src.controllers.robot_controller | Robot moved for 2.500 seconds with speed 20.000, displacement 50.000
+2026-04-20 23:16:11,476 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:16:11,476 | ERROR | src.controllers.robot_controller | Invalid movement duration: -1.0
+2026-04-20 23:16:11,477 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:16:11,477 | INFO | src.controllers.robot_controller | Speed updated to 20.0
+2026-04-20 23:16:11,477 | INFO | src.controllers.robot_controller | Robot stopped
+2026-04-20 23:32:38,488 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:32:38,488 | INFO | src.controllers.robot_controller | Speed updated to 20.0
+2026-04-20 23:32:38,489 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:32:38,490 | ERROR | src.controllers.robot_controller | Invalid speed value: 120.0
+2026-04-20 23:32:38,490 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:32:38,490 | ERROR | src.controllers.robot_controller | Invalid speed value: -150.0
+2026-04-20 23:32:38,491 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:32:38,491 | INFO | src.controllers.robot_controller | Speed updated to 20.0
+2026-04-20 23:32:38,491 | INFO | src.controllers.robot_controller | Robot moved for 2.500 seconds with speed 20.000, displacement 50.000
+2026-04-20 23:32:38,492 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:32:38,492 | ERROR | src.controllers.robot_controller | Invalid movement duration: -1.0
+2026-04-20 23:32:38,493 | INFO | src.controllers.robot_controller | RobotController initialized
+2026-04-20 23:32:38,493 | INFO | src.controllers.robot_controller | Speed updated to 20.0
+2026-04-20 23:32:38,493 | INFO | src.controllers.robot_controller | Robot stopped
